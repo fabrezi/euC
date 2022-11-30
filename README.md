@@ -9,6 +9,16 @@ Project Euler in C++
 
 ``` import life -->
 
-## Anatomy of Code
+<!-- ## Anatomy of Code
 
-Every programming language has 
+Every programming language has  -->
+
+<!-- ## Code Test
+
+- Fibo series
+- Sieve of Erathoseus
+- Count the word "the" in a sentence
+- shellsort
+- reverse polish notation
+- Hanoi Puzzle
+- Dijsktra Algorithm -->
