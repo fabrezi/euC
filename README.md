@@ -11,15 +11,3 @@ Project Euler in C++
 - Run the code: `g++ filename.cpp`. This will generate an executable file ususally with name `a.exe`
 - run the executable file: `./a.exe`. Get the output.
 
-
-## Cpp Partz
-
-Basics:
-- Compilation:
-- Data Types:
-- Commentation:
-- subroutine:
-
-Advanced:
-- Arrays:
-- 
