@@ -15,3 +15,10 @@ Project Euler in C++
 
 - A method is a member function (Cpp term). A method is a function within a class.
 - Cpp can have functions outside the class. Java does not.
+
+## New Training
+
+euC has to be solved with java instead of C++. This is due to client requirements and bussiness needs. Java is a bussiness bean.
+
+a set contains 5 programs/ questions. 
+
