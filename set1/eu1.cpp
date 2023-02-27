@@ -25,5 +25,5 @@ int func(){
 }
 
 int main(){
-    cout << "the sum  is:" + func();
+    cout << "the sum  is the following:" + func();
 }
