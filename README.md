@@ -1,10 +1,6 @@
 # euC
 
-Project Euler in C++.
-
-TBD
-
---> BNF form, pseudocode, problem solving method
+Project Euler in C programming language.
 
 ## Installation
 
