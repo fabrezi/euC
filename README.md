@@ -15,6 +15,7 @@ Project Euler in C programming language.
 ### References
 
 - [Short-Goldbach-reader](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
+- [Learn-C](https://tmewett.com/c-tips/#general-resources)
 
 
 
