@@ -1,6 +1,11 @@
 # euC
 
-Project Euler in C programming language.
+~~Project Euler in C programming language.~~
+
+This project has become more like euJ. I am working to `master` java and in the 
+process I have no time to learn C (sadly :( .
+
+
 
 ## Installation
 
