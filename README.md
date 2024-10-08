@@ -17,6 +17,10 @@ process I have no time to learn C (sadly :( .
 - Run the code: `g++ filename.cpp`. This will generate an executable file ususally with name `a.exe`
 - run the executable file: `./a.exe`. Get the output.
 
+### References
+
+- [Short-Goldbach-reader](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
+- [Learn-C](https://tmewett.com/c-tips/#general-resources)
 
 
 
