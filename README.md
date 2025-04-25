@@ -1,9 +1,6 @@
 # euC
 
-~~Project Euler in C programming language.~~
-
-This project has become more like euJ. I am working to `master` java and in the 
-process I have no time to learn C (sadly :( .
+Project Euler in C programming language.
 
 
 
@@ -21,6 +18,7 @@ process I have no time to learn C (sadly :( .
 
 - [Short-Goldbach-reader](https://gist.github.com/anonymous/a64213f391339236c2fe31f8749a0df6)
 - [Learn-C](https://tmewett.com/c-tips/#general-resources)
+- [C-king](http://www-cs-students.stanford.edu/~blynn/c/intro.html)
 
 
 
